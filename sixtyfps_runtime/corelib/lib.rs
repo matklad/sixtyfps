@@ -21,7 +21,6 @@ You should use the `sixtyfps` crate instead
 /// The animation system
 pub mod animations;
 pub(crate) mod flickable;
-pub mod font;
 pub mod graphics;
 pub mod input;
 pub mod item_tree;
